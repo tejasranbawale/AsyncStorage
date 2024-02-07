@@ -9,8 +9,8 @@ export default function App() {
     <SafeAreaView>
       <ScrollView>
         <Register />
-        <SectionListApp />
-        <StatusBarApp />
+        {/* <SectionListApp /> */}
+        {/* <StatusBarApp /> */}
       </ScrollView>
     </SafeAreaView>
   );
